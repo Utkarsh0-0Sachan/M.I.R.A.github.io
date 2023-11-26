@@ -121,7 +121,7 @@ nav ul li a:hover::after{
 .dalle, .freepik ,.stock,.chatgpt{
     height: 30vh;
     width: 30vh;
-    background-color: #AC89B8;
+    background-color: rgb(172,137,184);
     /* backdrop-filter: blur(3px);*/
     border-radius: 20px;
     margin: 20px 10px;
